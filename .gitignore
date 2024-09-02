@@ -1,0 +1,7 @@
+/.env
+/.venv/*
+/.idea/*
+.idea
+/.session
+bot.session
+anon.session
